@@ -6,7 +6,7 @@
 
 
 
-**Sweldo** is a Web3 payroll management system built on the \*\*Stellar Testnet\*\* that enables employers to send payroll securely using \*\*Stellar Claimable Balances\*\*. Instead of directly transferring funds, employers create claimable balances that employees can securely claim using their own Stellar wallets through \*\*Freighter\*\*.
+**Sweldo** is a Web3 payroll management system built on the **Stellar Testnet ** that enables employers to send payroll securely using  **Stellar Claimable Balances **. Instead of directly transferring funds, employers create claimable balances that employees can securely claim using their own Stellar wallets through  **Freighter **.
 
 
 
