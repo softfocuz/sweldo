@@ -1,78 +1,78 @@
-\# Sweldo
+# Sweldo
 
 
 
-\## About the Project
+## About the Project
 
 
 
-\*\*Sweldo\*\* is a Web3 payroll management system built on the \*\*Stellar Testnet\*\* that enables employers to send payroll securely using \*\*Stellar Claimable Balances\*\*. Instead of directly transferring funds, employers create claimable balances that employees can securely claim using their own Stellar wallets through \*\*Freighter\*\*.
+**Sweldo** is a Web3 payroll management system built on the \*\*Stellar Testnet\*\* that enables employers to send payroll securely using \*\*Stellar Claimable Balances\*\*. Instead of directly transferring funds, employers create claimable balances that employees can securely claim using their own Stellar wallets through \*\*Freighter\*\*.
 
 
 
-The project demonstrates a \*\*non-custodial payroll system\*\*, meaning employees always control their own wallets and private keys while employers can efficiently manage payroll distributions.
+The project demonstrates a **non-custodial payroll system**, meaning employees always control their own wallets and private keys while employers can efficiently manage payroll distributions.
 
 
 
-\---
+---
 
 
 
-\# Features
+# Features
 
 
 
-\### Employer
+### Employer
 
-\- Employee Management
+- Employee Management
 
-\- Connect Stellar Wallet
+- Connect Stellar Wallet
 
-\- Create Payroll
+- Create Payroll
 
-\- Process Payroll
+- Process Payroll
 
-\- View Payroll Records
-
-
-
-\### Employee
-
-\- Connect Stellar Wallet
-
-\- View Claims
-
-\- Claim Payroll using Freighter Wallet
+- View Payroll Records
 
 
 
-\### Payroll Types
+### Employee
 
-\- One-Time Payroll
+- Connect Stellar Wallet
 
-\- Monthly Payroll \*(configured to run every \*\*3 minutes\*\* for demonstration purposes only)\*
+- View Claims
 
-\- Milestone-Based Payroll
-
-
-
-\---
+- Claim Payroll using Freighter Wallet
 
 
 
-\# Demo Accounts
+### Payroll Types
+
+- One-Time Payroll
+
+- Monthly Payroll \*(configured to run every \*\*3 minutes\*\* for demonstration purposes only)\*
+
+- Milestone-Based Payroll
 
 
 
-\## Employer Accounts
+---
 
 
 
-\### Google
+# Demo Accounts
 
 
 
-\*\*Email\*\*
+## Employer Accounts
+
+
+
+### Google
+
+
+
+**Email**
 
 
 
@@ -84,7 +84,7 @@ google@gmail.com
 
 
 
-\*\*Password\*\*
+**Password**
 
 
 
@@ -96,15 +96,15 @@ Halle
 
 
 
-\---
+---
 
 
 
-\### NVIDIA
+### NVIDIA
 
 
 
-\*\*Email\*\*
+**Email**
 
 
 
@@ -116,7 +116,7 @@ nvidia@gmail.com
 
 
 
-\*\*Password\*\*
+**Password**
 
 
 
@@ -128,15 +128,15 @@ Halle
 
 
 
-\---
+---
 
 
 
-\## Employee Account
+## Employee Account
 
 
 
-\*\*Email\*\*
+**Email**
 
 
 
@@ -148,7 +148,7 @@ vincell@gmail.com
 
 
 
-\*\*Password\*\*
+**Password**
 
 
 
@@ -162,15 +162,15 @@ Halle
 
 
 
-\## Notes
+## Notes
 
 
 
-\- This project uses \*\*Stellar Testnet\*\* for demonstration purposes.
+- This project uses **Stellar Testnet** for demonstration purposes.
 
-\- The \*\*Monthly Payroll\*\* scheduler has been configured to execute \*\*every 3 minutes\*\* instead of every month to simplify demonstrations.
+- The **Monthly Payroll** scheduler has been configured to execute **every 3 minutes** instead of every month to simplify demonstrations.
 
-\- Employees must connect the same Stellar wallet that is registered in the system before claiming payroll.
+- Employees must connect the same Stellar wallet that is registered in the system before claiming payroll.
 
-\- A payroll must be processed and reach the \*\*FUNDED\*\* status before it becomes claimable.
+- A payroll must be processed and reach the **FUNDED** status before it becomes claimable.
 
