@@ -50,7 +50,7 @@ The project demonstrates a **non-custodial payroll system**, meaning employees a
 
 - One-Time Payroll
 
-- Monthly Payroll \*(configured to run every \*\*3 minutes\*\* for demonstration purposes only)\*
+- Monthly Payroll (configured to run every **3 minutes** for demonstration purposes only)
 
 - Milestone-Based Payroll
 
@@ -173,4 +173,10 @@ Halle
 - Employees must connect the same Stellar wallet that is registered in the system before claiming payroll.
 
 - A payroll must be processed and reach the **FUNDED** status before it becomes claimable.
+
+## Team Members:
+
+- John Heinrich Fabros
+- Clarise Tan
+- Jen Salaysay
 
