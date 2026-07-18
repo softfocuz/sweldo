@@ -78,7 +78,7 @@ The project demonstrates a **non-custodial payroll system**, meaning employees a
 
 ```
 
-google@gmail.com
+google@google.com
 
 ```
 
